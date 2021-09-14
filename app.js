@@ -1,2 +1,1 @@
-exports.tstrepo = (req, res) => { res.send("Hello zip!"); };
-
+exports.tstrepo = (req, res) => { res.send("Hello github repo!"); };
